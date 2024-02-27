@@ -14,4 +14,5 @@ Basta criar o seu cadastro, incluir ou se inscrever em uma Pelada e partir para 
 ## Duvidas e Sugestões
 Abra sua inssue caso tenha algum problema com o APP ou uma sugestão de melhorias.
 
-
+## Para cancelar sua conta e apagar os dados
+Envie um e-mail a peladasemcraque@gmail.com
